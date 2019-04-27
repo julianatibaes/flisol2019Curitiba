@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Escolha álcool ou gasolina</string>
+    <string name="gasolina">Insira o valor monetário da gasolina</string>
+    <string name="alcool">Insirao valor monetário do álcool</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="nao_avacalhe">Insira os valores que estão faltando.</string>
+    <string name="use_alcool">A melhor opção é álcool.</string>
+    <string name="use_gasolina">A melhor opção é gasolina.</string>
+    <string name="valor_ideal">Valor máximo: R$</string>
+</resources>
